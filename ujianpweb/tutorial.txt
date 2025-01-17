@@ -1,0 +1,7 @@
+1. ekstrak folder lalu pindahkan ke dalam htdocs, lalu jalankan di vscode seperti biasa
+2. buat database di phpMyAdmin dengan nama edm_db, lalu import file sql yang ada di folder Namanya edm_db.sql
+3. jalankan nya yang folder public untuk sisi user/guest pastikan sudah mengaktifkan apache dan mysql masuk ke admin
+contoh : http://localhost/ujianpweb/public/
+4. guest memasukkan code RSVP agar bisa melakukan registrasi, masukkan code 123456. kode bisa di ubah sesuka hati
+
+
